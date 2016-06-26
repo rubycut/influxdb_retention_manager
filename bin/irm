@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'irm'
+puts Hola.hi(ARGV[0])
